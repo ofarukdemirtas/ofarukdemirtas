@@ -3,6 +3,6 @@
 
 - 🌱 I’m learning **C, Python, C++, Embedded**
 
-- 📫 How to reach me **omrfarukdemir1@gmail.com**
+- 📫 How to reach me **farukdemirta@proton.me**
 
 
